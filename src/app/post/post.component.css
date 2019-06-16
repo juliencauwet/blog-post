@@ -1,0 +1,10 @@
+.btn{
+  width: 6em;
+  margin-right: 10px;
+  border: 1px solid black;
+}
+
+.date{
+  font-style: italic;
+  color: gray;
+}
